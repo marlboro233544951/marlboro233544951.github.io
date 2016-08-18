@@ -50,7 +50,7 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : 
+    short_name : whttoday
   disqus :
       short_name : 
 
