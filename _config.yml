@@ -48,7 +48,7 @@ defaults:
 
 # Comments 
 comments :
-  provider : duoshuo
+  # provider : duoshuo
   duoshuo :
     short_name : whttoday
   disqus :
