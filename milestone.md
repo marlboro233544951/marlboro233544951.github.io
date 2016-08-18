@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "milestone"
+title: "Milestone"
 description: "求真求实，大气大为 "
 header-img: "img/zhihu.jpg"
 ---

@@ -10,5 +10,5 @@ header-img: "img/green.jpg"
     <p><img src="/img/Yanni.jpg" align="center" height="120px" width="100px"></p>
 </center>
 
-我是吴翰韬，独立博客搭建完成时间：2016年08月08日，努力，奋斗。
+我是阿韬，独立博客搭建完成时间：2016年08月08日，努力，奋斗。
 
