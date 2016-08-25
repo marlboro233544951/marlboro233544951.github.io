@@ -18,7 +18,7 @@ header-img: "img/semantic.jpg"
 
 <div id="tagcloud">
 {% for tag in site.tags %}
-<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}" style="color:#12b5ad">{{ tag[0] }}</a>
+<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}" style="color:#12b5ad;border: solid #6AC5AC 2px">{{ tag[0] }}</a>
 {% endfor %}
 </div>
 
@@ -31,14 +31,14 @@ header-img: "img/semantic.jpg"
   <li class="listing-item">
   <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
   <span>&nbsp;&nbsp;</span>
-  <a href="{{ post.url }}" title="{{ post.title }}" style="color:blue">{{ post.title }}</a>
+  <a href="{{ post.url }}" title="{{ post.title }}" style="color:#6b92dd">{{ post.title }}</a>
   </li>
 {% endfor %}
 {% endfor %}
 </ul>
 
+<!-- <script src="/js/tagcloud.js"></script>
 
-<script src="/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script> 
 <script language="javascript">
 $.fn.tagcloud.defaults = {
   size: {start: 14, end: 18, unit: 'pt'},
@@ -49,4 +49,4 @@ $(function () {
   $('#tagcloud a').tagcloud();
 });
 </script>
-
+ -->
