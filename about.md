@@ -12,3 +12,4 @@ header-img: "img/green.jpg"
 
 我是阿韬，独立博客搭建完成时间：2016年08月08日，努力，奋斗。
 
+E-mail: 233544951@qq.com

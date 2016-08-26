@@ -13,7 +13,7 @@ header-img: "img/semantic.jpg"
 4. 马上试试？
 
 ***
-## 印象列表
+<h2>印象列表</h2> 
 
 
 <div id="tagcloud">
